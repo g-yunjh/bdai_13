@@ -1,3 +1,5 @@
+# Python DB 연동
+
 ## 1. DB 연동 기본 매커니즘
 * **Connection**: Python 애플리케이션과 DB 서버 간의 통신 통로 형성
 * **Cursor**: DB 내부에서 SQL 구문을 실행하고 결과 집합을 가리키는 매개체 역할
